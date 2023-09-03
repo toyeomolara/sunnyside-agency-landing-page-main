@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    /* font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif; */
+
+}
+#logo {
+    display: flex;
+    align-items: center;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.navbar-nav {
+    text-align: center;
+   
+}
+ul{
+    color: white;
+}
